@@ -1,2 +1,2 @@
 # rogueap
-Método de detecção de RogueAP com aprendizagem de máquina
+RogueAP detection method with machine learning
