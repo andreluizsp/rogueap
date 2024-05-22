@@ -7,4 +7,4 @@ The main contributions of this project are:
 
 • A new dataset encompassing over 357 APs with over 20 hardware and software extracted behavioral features. The dataset presents multiple rogue APs behaviors generated through software-based techniques.
 
-• A new ML-based verification technique to assess the reli ability of connected APs. The proposed model passively identifies rogue APs with up to X.X of true-positive rates.
+• A new ML-based verification technique to assess the reli ability of connected APs. The proposed model passively identifies rogue APs with up to 0.9 of true-positive rates.
