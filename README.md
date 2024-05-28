@@ -35,4 +35,4 @@ df_orig = pd.read_csv('/content/drive/MyDrive/datasets/dataset.csv')
 
 2) Script MakeCSV.py must be in the same directory as the .pcaps files to extract the features of all APs with the command below:
 
-   # MakeCSV.py > dataset.csv
+   Command: # MakeCSV.py > dataset.csv
