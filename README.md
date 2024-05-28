@@ -33,6 +33,7 @@ The main contributions of this project are:
 
       1) Inside the Packages directory are the packages used in this project (357 Access Points - APs)
 
-      2) Script MakeCSV.py must be in the same directory as the .pcaps files to extract the features of all APs with the command below:
+      2) Script MakeCSV.py must be in the same directory as the .pcaps files to extract the features 
+         of all APs with the command below:
 
-   Command: # MakeCSV.py > dataset.csv
+         Command: # MakeCSV.py > dataset.csv
