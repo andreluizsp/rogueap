@@ -9,7 +9,7 @@ The main contributions of this project are:
 
 • A new ML-based verification technique to assess the reli ability of connected APs. The proposed model passively identifies rogue APs with up to 0.9 of true-positive rates.
 
-## Project Setup
+# Project Setup
 
 1) Start by cloning the project (Install git: https://git-scm.com/download):
    
@@ -21,15 +21,15 @@ $ ls
 
  LICENSE  MakeCSV.py Packets README.md Rogue_OCCS_SVM.ipynb dataset.csv
 
-### Import Rogue_OCCS_SVM.ipynb in Juniper or Google Colab 
+## Import Rogue_OCCS_SVM.ipynb in Juniper or Google Colab 
 
 https://colab.research.google.com/drive/1rbxLpr-232kK-4MhV1nt5H3Qaaz-ekb7?usp=sharing
 
-#### Import dataset.csv to Goole Drive or change the cell below
+## Import dataset.csv to Goole Drive or change the cell below
 
 df_orig = pd.read_csv('/content/drive/MyDrive/datasets/dataset.csv')
 
-##### Directory Packages vs. Script MakeCSV.py
+## Directory Packages vs. Script MakeCSV.py
 
 1) Inside the Packages directory are the packages used in this project (357 Access Points - APs)
 
