@@ -8,3 +8,26 @@ The main contributions of this project are:
 • A new dataset encompassing over 357 APs with over 20 hardware and software extracted behavioral features. The dataset presents multiple rogue APs behaviors generated through software-based techniques.
 
 • A new ML-based verification technique to assess the reli ability of connected APs. The proposed model passively identifies rogue APs with up to 0.9 of true-positive rates.
+
+## Project Setup
+
+1) Start by cloning the project (Install git: https://git-scm.com/download):
+Shell: # git clone --depth=1 https://github.com/andreluizsp/rogueap.git && cd rogueap
+
+2) This will create a new directory called "rogueap" containing the following files:
+
+$ ls 
+ LICENSE
+ MakeCSV.py
+ Packets/
+ README.md
+ Rogue_OCCS_SVM.ipynb
+ dataset.csv
+
+### Import Rogue_OCCS_SVM.ipynb in Juniper or Google Colab 
+
+https://colab.research.google.com/drive/1rbxLpr-232kK-4MhV1nt5H3Qaaz-ekb7?usp=sharing
+
+#### Import dataset.csv into Goole Drive or change the cell above
+
+df_orig = pd.read_csv('/content/drive/MyDrive/datasets/dataset.csv')
