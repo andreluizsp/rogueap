@@ -23,7 +23,7 @@ The main contributions of this project are:
 
 ## Import Rogue_OCCS_SVM.ipynb in Juniper or Google Colab 
 
-      https://colab.research.google.com/drive/1rbxLpr-232kK-4MhV1nt5H3Qaaz-ekb7?usp=sharing
+      https://colab.research.google.com/drive/1rttjlDnYR0ev7tAQYBVrMK2NT0FqLkh-?usp=sharing
 
 ## Import dataset.csv to Goole Drive or change the cell below
 
