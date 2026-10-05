@@ -21,7 +21,7 @@ The main contributions of this project are:
 
        LICENSE  MakeCSV.py Packets README.md Rogue_OCCS_SVM.ipynb dataset.csv
 
-## Import Rogue_OCCS_SVM.ipynb in Juniper or Google Colab 
+## Import RogueOneClass.ipynb in Juniper or Google Colab 
 
       https://colab.research.google.com/drive/1rttjlDnYR0ev7tAQYBVrMK2NT0FqLkh-?usp=sharing
 
