@@ -5,6 +5,14 @@ This project proposes a new ML-based technique for the passive verification of A
 
 ( * We initiated a correction to the original code in October 2026 and will make it available soon. We will also address the questions raised regarding our article.)
 
+# New results after the corrections:
+Recall Rogue AP : 0.9423
+Recall Normal AP: 0.6250
+Precision Rogue AP: 0.7000
+F1 Rogue AP: 0.8033
+Accuracy : 0.7778
+
+
 The main contributions of this project are:
 
 • A new dataset encompassing over 357 APs with over 20 hardware and software extracted behavioral features. The dataset presents multiple rogue APs behaviors generated through software-based techniques.
