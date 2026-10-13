@@ -38,7 +38,7 @@ The main contributions of this project are:
 
 ## Import RogueOneClass.ipynb in Juniper or Google Colab 
 
-      https://colab.research.google.com/drive/1rttjlDnYR0ev7tAQYBVrMK2NT0FqLkh-?usp=sharing
+      https://colab.research.google.com/drive/1KwJk7WLm_tuxWuXzEDdn1vKIU053NKmw?usp=sharing
 
 ## Import dataset.csv to Goole Drive or change the cell below
 
